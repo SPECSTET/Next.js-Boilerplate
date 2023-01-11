@@ -2,6 +2,8 @@
 
 A boilerplate for new Next.js projects with features.
 
+#next #nextjs #react #tailwind #flowbite #iconify #template #boilerplate #getstarted #beginner #vercel
+
 ## Contains
 
 - [Next.js](https://nextjs.org/docs)
@@ -43,14 +45,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about this boilerplate, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-[Let's build a Modern Portfolio with NEXT.JS](https://www.youtube.com/watch?v=urgi2iz9P6U)
+- [Building a design system in Next.js with Tailwind](https://www.youtube.com/watch?v=T-Zv73yZ_QI)
+- [Let's build a Modern Portfolio with NEXT.JS](https://www.youtube.com/watch?v=urgi2iz9P6U)
 
 ### People you should follow
 
@@ -59,6 +59,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
 [Alicia Rodriguez](https://www.youtube.com/@timetocode_with_ali)
+
+[Tru Narla](https://www.youtube.com/@mewtru/about)
 
 ## Tools
 
